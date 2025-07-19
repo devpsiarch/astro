@@ -71,7 +71,7 @@ pip install numpy matplotlib
 
 ### 🎥 Demo
 
-[![Watch the animation](https://raw.githubusercontent.com/devpsiarch/astro/main/assets/fig-1.png)](https://raw.githubusercontent.com/devpsiarch/astro/main/assets/output.mp4)
+[![Watch the animation](https://raw.githubusercontent.com/devpsiarch/astro/main/assets/fig-0.png)](https://raw.githubusercontent.com/devpsiarch/astro/main/assets/output.mp4)
 
 - in ```Planets.zip``` you will find the plots (100 .png's) that where used to create the same video, unzip them and inspect it dont worry its safe... :)
 
