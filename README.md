@@ -85,6 +85,9 @@ pip install numpy matplotlib
 
 ---
 
+### Refrences 
+- [NASA's JPL](https://ssd.jpl.nasa.gov/planets/approx_pos.html#tables)
+
 ### 📜 License
 
 This project is released under the MIT License.
